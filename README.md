@@ -33,7 +33,7 @@ Final delivery of the project will require:
 
 
 ## Dates
- - Code Freeze: EOB 8/21/24
+ - Code Freeze: EOD 8/21/24
  - Due: 8/23/24
  - Presentations: 8/23/24 - 10:30 AM ET
 
