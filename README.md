@@ -1,10 +1,9 @@
-# Project 2 (capstone) - RevShop E-commerce SPA
+# Project - RevShop E-commerce SPA
 The RevShop project aims to develop a secure, user-friendly, and versatile e-commerce application for both buyers and sellers. The core functionalities for buyers include browsing products, 
 adding products to a cart, checkout, and payment processing. Sellers can add products, manage inventory, and fulfill orders. The project's completion will be demonstrated through a cloud-hosted 
 working version, technical presentation, and associated diagrams. 
 
 ## Delivery
-Final delivery of the project will require:
  - A portable container of your Spring server hosted in the cloud
  - A react SPA hosted in the cloud
  - Source code for both client and server in the project repo
@@ -32,11 +31,6 @@ Final delivery of the project will require:
  - [ ] Receive notification with details when a purchase is made for shipping products (either email, or in-app notification)
 
 
-## Dates
- - Code Freeze: EOD 8/21/24
- - Due: 8/23/24
- - Presentations: 8/23/24 - 10:30 AM ET
-
 ## Technologies
  - Java
  - SQL
@@ -44,7 +38,7 @@ Final delivery of the project will require:
  - HTTP
  - JUnit
  - Mockito
- - Spring
+ - SpringBoot
  - React
  - JWT
  - Docker
@@ -73,7 +67,7 @@ Final delivery of the project will require:
  - Add new products with price and description
  - Receive email notifications or in-app notification to ship purchased items after checkout is complete
 
-#### Stretch Goals:
+#### Additional Features:
  - Site hosted in the cloud, and API running on cloud server for demonstration
  - Working CICD pipeline for continuous delivery during development
  - Admin functionality - Edit and delete buyer and seller user accounts as well as products
@@ -84,7 +78,7 @@ Final delivery of the project will require:
  - AI customer service chat integration
 
 
-## Non-functional Requirements
+## Non-functional Features
  - Adhere to REST guiding principles
    - Uniform Interface
    - Client-Server
